@@ -3,3 +3,5 @@ while (nilaiAwal <= 10){
     console.log ('hai hai hai my name is tri ' + nilaiAwal + ' x')
     nilaiAwal ++;
 }
+#####
+Pengenalan While
